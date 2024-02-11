@@ -7,6 +7,10 @@ import javax.crypto.spec.SecretKeySpec;
 import java.security.SecureRandom;
 import java.util.Base64;
 
+/**
+ * @author FengYanMoShen
+ */
+
 public class AESExample {
     public static void main(String[] args) throws Exception {
         // 生成密钥

@@ -3,6 +3,10 @@ package encrypt;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
+/**
+ * @author FengYanMoShen
+ */
+
 public class MessageDigestAlgorithmFive {
 
     public static String generateMD5(String inputstring) {
