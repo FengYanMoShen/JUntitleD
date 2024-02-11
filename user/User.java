@@ -1,7 +1,7 @@
 package user;
 
 /**
- * @author FengYanMoShen
+ * @author QianZhenHua
  * 这个类将会实现以下几个功能
  *  1. 生成uuid
  *  2. 生成时间

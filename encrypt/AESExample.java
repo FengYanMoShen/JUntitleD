@@ -8,7 +8,7 @@ import java.security.SecureRandom;
 import java.util.Base64;
 
 /**
- * @author FengYanMoShen
+ * @author QianZhenHua
  */
 
 public class AESExample {

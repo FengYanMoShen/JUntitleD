@@ -4,7 +4,7 @@ import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
 /**
- * @author FengYanMoShen
+ * @author QianZhenHua
  */
 
 public class MessageDigestAlgorithmFive {

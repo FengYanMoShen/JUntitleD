@@ -1,7 +1,7 @@
 package encrypt;
 
 /**
- * @author FengYanMoShen
+ * @author QianZhenHua
  */
 public class AdvancedEncryptionStandard {
 }

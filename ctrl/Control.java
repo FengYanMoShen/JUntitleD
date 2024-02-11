@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 /**
- * @author FengYanMoShen
+ * @author QianZhenHua
  */
 public class Control {
     public void read() throws IOException {

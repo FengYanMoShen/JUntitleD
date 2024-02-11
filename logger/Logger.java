@@ -4,7 +4,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 /**
- * @author FengYanMoShen
+ * @author QianZhenHua
  */
 public class Logger {
     Logger logger = new Logger();
